@@ -5,7 +5,7 @@ begin
   require 'rubygems'
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "calendar_date_select"
+    gemspec.name = "calendar_date_select-rails3"
     gemspec.version = File.read("VERSION").strip
     gemspec.summary = "Calendar date picker for rails"
     gemspec.description = "Calendar date picker for rails"
